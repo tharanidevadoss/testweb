@@ -1,0 +1,35 @@
+.navbar-header{
+    color: green;
+    font-weight: bolder;
+    font-size: 40px;
+    padding-left: 100px;
+}
+    .navbar .navbar-nav .nav-link {
+        color: green;
+        font-size: 25px;
+
+    }
+    .carousel-inner img{
+        height: 500px;
+    }
+    .margin{
+        padding-top: 40px;
+        /* padding-left: 50px; */
+        /* padding-top: 10px; */
+
+    }
+    h2{
+        padding-top: 200px;
+        font-weight: bolder;
+        font-size: 40px;
+    }
+    .btn1{
+        border-radius: 40px;
+        padding: 15px 50px;
+        background-color: rgb(14, 173, 14);
+        font-size: 20px;
+        margin-top: 20px;
+        text-decoration: none;
+    }
+  
+    
